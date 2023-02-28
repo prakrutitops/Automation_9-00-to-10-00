@@ -1,1 +1,21 @@
+1)Tops Carrer Center
+2)Account-Github
+3)Setup
+
+1)
+JDK-Java Development Kit-Compiler
+https://www.techspot.com/downloads/5553-java-jdk.html
+
+
+Set the Path:
+Path : C:\Program Files\Java\jdk1.8.0_191\bin
+
+This Pc->Right Click->Advanced System Settings->Environment Variables
+->Path(Edit)->Paste Your PATH-> Finish
+
+
+
+2)
+Editor-Eclipse
+https://www.eclipse.org/downloads/
 
