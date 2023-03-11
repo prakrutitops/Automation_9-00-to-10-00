@@ -1,0 +1,25 @@
+JDK->Java Development kit[Compiler]
+JRE->Java Runtime Environment[System Library]
+
+Presentation Layer
+Application Layer
+Data Layer[Insert,Update,Delete]->
+
+
+->Every Program Execution is starts with main method
+
+Data Type:
+
+integer
+float-4 byte(decimal)
+character	
+double-8 byte(decimal)
+string
+boolean
+
+
+Comment 
+Print
+
+//Integer - Numeric Value Store[32768]
+//Float-Decimal Value
