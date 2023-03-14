@@ -1,0 +1,34 @@
+Package:Collection of all units
+
+a%=b
+
+a=a%b
+60/30
+
+ans=2
+mod=0
+
+Operators
+1)Arithmetic Operators
+2)Assignment Operators
+3)Logical Operators
+4)Relational Operators
+
+Condition:
+If-Else
+
+UserDefined
+Scanner
+
+
+======================================Task =========================================
+
+1)Find Area of Circle using User defined value =Pi*r*r
+2)Find Area of Triangle using User defined value=0.5*a*b
+
+
+
+
+
+
+
