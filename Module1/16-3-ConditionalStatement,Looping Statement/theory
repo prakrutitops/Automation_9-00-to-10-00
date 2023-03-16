@@ -1,0 +1,56 @@
+If-Else
+Gradding System
+
+70- A Grade
+60- B Grade
+50- C Grade
+40- D Grade
+
+if
+else if
+.
+.
+.
+else
+
+conditional statement:
+switch,case,break
+
+Loop:
+For
+While
+Dowhile
+
+syntax:
+for(initialization;condition;incre/decre)
+{
+	code
+}
+
+===============================================
+initialization;
+
+while(condition)
+{
+	incre/decre;
+}
+
+===================================================
+initialization;
+
+do
+{
+	incre/decre;
+}
+while(condition);
+
+
+
+
+Entry Control Loop
+For
+While
+
+
+Exit Control Loop
+DoWhile
