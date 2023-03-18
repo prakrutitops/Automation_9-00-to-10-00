@@ -1,0 +1,27 @@
+1. Display This Information using println
+a. Your Name
+b. Your Birth date
+c. Your Age
+d. Your Address
+
+2. Write a program to make addition, Subtraction, Multiplication and Division of
+Two Numbers.[UseInput]
+
+3. Write a program to make a square and cube of number.
+
+4. Write a program to find the simple Interest.
+
+5. Write a program to calculate sum of 5 subjects & find the percentage.
+Subject marks entered by user.
+
+6. Write a Program to check the given number is Positive, Negative.
+
+7. Write a Program to check the given year is leap year or not.
+
+I= P*R*N/100;
+
+
+P=10,000
+R=5%
+N=1 Year
+
