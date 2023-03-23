@@ -1,0 +1,34 @@
+Keywords:
+1)
+this->when variable names are same or we want to pass the refrence at that 
+time we are using this keyword
+
+->Normally this keyword is used to pass the refrence and we are also called refrence keyword
+
+
+2)
+static-fixed the value
+i)Variable
+ii)Method
+iii)Block
+
+3)
+super
+
+4)
+final
+i)Variable
+ii)Method
+iii)Class
+===============================================================
+Polymorphism:Many ways to perform anything
+
+Types 
+
+1)Method Overloading:When two methods having a same name but number of parameters are diffrent
+
+2)Method Overriding:
+
+
+
+
