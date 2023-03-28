@@ -1,0 +1,31 @@
+String:
+
+1) StringBuilder->Immutable[can not change]
+Pre Define Methods
+
+Concat
++
+equals
+equalsignorecase
+==
+compareTo
+trim
+startswith
+endswith
+charAt
+replaceAll
+
+
+2) StringBuffer->Mutable[can change]
+Pre Define Methods
+
+ASCII Value:
+
+A to Z =>65 to 90
+a to z =>97 to 122
+
+Wrapper Class:
+
+int -data type
+
+Integer - Wrapper Class
