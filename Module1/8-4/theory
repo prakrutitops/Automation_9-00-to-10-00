@@ -1,0 +1,31 @@
+Array:Collection of items
+
+types of array
+1)Single dimensional array
+2)Multi dimensional array
+
+static data
+
+
+
+Collection Framework:
+ArrayList
+LinkedList
+HashSet
+Vector
+Stack
+HashMap
+
+Collection -> class+interface+unit+methods
+
+Interface
+1)Interface - List:
+Class - ArrayList
+Class - LinkedList
+
+2)Interface - Set:
+Class - Hashset
+
+3)Map:
+HashMap
+
